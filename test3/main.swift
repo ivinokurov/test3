@@ -2,10 +2,13 @@
 //  main.swift
 //  test3
 //
-//  Created by И.В. Винокуров on 17.04.2021.
+//  Created by И.В. Винокуров
 //
 
 import Foundation
 
-print("Hello, World!")
+GitHubRepositories().printRepositoriesList()
+
+
+
 
